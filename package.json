@@ -1,0 +1,24 @@
+{
+  "name": "csslinter",
+  "version": "1.0.0",
+  "description": "A place where i set linters to test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-ravecca/csslinter.git"
+  },
+  "author": "Ivan Sanchez <ivan.ravecca@gmail.com>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ivan-ravecca/csslinter/issues"
+  },
+  "homepage": "https://github.com/ivan-ravecca/csslinter#readme",
+  "devDependencies": {
+    "postcss": "^5.0.19",
+    "stylelint": "^6.2.1",
+    "stylelint-config-standard": "^6.0.0"
+  }
+}
