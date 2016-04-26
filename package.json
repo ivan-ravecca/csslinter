@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ivan-ravecca/csslinter#readme",
   "devDependencies": {
     "postcss": "^5.0.19",
+    "postcss-scss": "^0.1.7",
     "stylelint": "5.4.0",
     "stylelint-config-standard": "5.0.0"
   }
